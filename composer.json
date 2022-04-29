@@ -1,5 +1,5 @@
 {
-    "name": "extended-bread-form-fields",
+    "name": "CristianHR/extended-bread-form-fields",
     "description": "Extended FormFields hook interface to Voyager BREAD",
     "tags": [
         "voyager",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "bnku",
-            "email": "bnku@ya.ru"
+            "name": "CristianHR",
+            "email": "khristiam_r@hotmail.com"
         }
     ],
     "autoload": {
