@@ -1,12 +1,6 @@
 {
     "name": "cristianhr/extended-bread-form-fields",
     "description": "Extended FormFields hook interface to Voyager BREAD",
-    "tags": [
-        "voyager",
-        "FormField",
-        "key-value-json",
-        "multiple images attributes"
-    ],
     "license": "MIT",
     "authors": [
         {
@@ -14,6 +8,9 @@
             "email": "khristiam_r@hotmail.com"
         }
     ],
+    "require": {
+        "tcg/voyager": "1.*"
+    },
     "autoload": {
         "psr-4": {
             "ExtendedBreadFormFields\\": "src/"
@@ -30,3 +27,5 @@
         }
     }
 }
+
+
