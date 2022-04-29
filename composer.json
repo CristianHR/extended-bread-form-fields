@@ -14,9 +14,6 @@
             "email": "bnku@ya.ru"
         }
     ],
-    "require": {
-        "larapack/hooks": "^1.0.5"
-    },
     "autoload": {
         "psr-4": {
             "ExtendedBreadFormFields\\": "src/"
