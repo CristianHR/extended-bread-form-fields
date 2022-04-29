@@ -22,7 +22,7 @@
                 "ExtendedBreadFormFields\\ExtendedBreadFormFieldsServiceProvider"
             ],
             "views": [
-                "resources/vievs"
+                "resources/views"
             ]
         }
     }

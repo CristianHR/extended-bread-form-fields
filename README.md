@@ -19,8 +19,7 @@ php artisan hook:install extended-bread-form-fields
 
 ### Required
 ```bash
-"laravel/framework": "5.7.*"
-"tcg/voyager": "^1.1"
+ "tcg/voyager": "^1.*"
 ```
 
 ## Key-Value to JSON
